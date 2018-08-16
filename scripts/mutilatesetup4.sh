@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mutilate3 -s 192.168.0.2 --loadonly
+mutilate3 -s 172.16.0.2 --loadonly
